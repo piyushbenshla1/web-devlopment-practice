@@ -17,3 +17,20 @@ p {
     color: #555555;
     font-size: 18px;
 }
+nav {
+    margin: 25px 0;
+}
+
+nav a {
+    color: #2563eb;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+   
